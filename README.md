@@ -11,14 +11,14 @@
 
 3. pip install -r requirements.txt
 
-## Save OPENAI API key in .env
+# Save OPENAI API key in .env
 
-## Go to telegram and search for BotFather with verified tick on it.
-## Hit /start
-## /newbot for new bot
+# Go to telegram and search for BotFather with verified tick on it.
+4. Hit /start
 
-## Give ur new bot a name
+5. /newbot for new bot
 
-## It will give a link for your new bot and and access token
+6. Give ur new bot a name
+ It will give a link for your new bot and and access token
 
-## Save the access token in .env file next to OPENAI-API key
+7. Save the access token in .env file next to OPENAI-API key
